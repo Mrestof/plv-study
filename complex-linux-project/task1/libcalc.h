@@ -1,5 +1,5 @@
-#ifndef calc_h_
-#define calc_h_
+#ifndef CALC_H_
+#define CALC_H_
 
 int get_user_int(char* message);
 float get_user_float(char* message);
