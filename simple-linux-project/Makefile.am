@@ -9,4 +9,4 @@ clean-all: uninstall
 		-and -not -name '*.am' \
 		-and -not -name '*.ac' \
 		-and -not -name 'README.md' \
-		-exec rm -rf {} \;
+		-delete
